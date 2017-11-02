@@ -1,0 +1,14 @@
+D:\练习\FirstWeekHomeWork\DBHelper\bin\Debug\DBHelper.dll
+D:\练习\FirstWeekHomeWork\DBHelper\bin\Debug\DBHelper.pdb
+D:\练习\FirstWeekHomeWork\DBHelper\bin\Debug\Model.dll
+D:\练习\FirstWeekHomeWork\DBHelper\bin\Debug\Model.pdb
+D:\练习\FirstWeekHomeWork\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+D:\练习\FirstWeekHomeWork\DBHelper\obj\Debug\DBHelper.dll
+D:\练习\FirstWeekHomeWork\DBHelper\obj\Debug\DBHelper.pdb
+D:\Git\firstweekwork\DBHelper\bin\Debug\DBHelper.dll
+D:\Git\firstweekwork\DBHelper\bin\Debug\DBHelper.pdb
+D:\Git\firstweekwork\DBHelper\bin\Debug\Model.dll
+D:\Git\firstweekwork\DBHelper\bin\Debug\Model.pdb
+D:\Git\firstweekwork\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+D:\Git\firstweekwork\DBHelper\obj\Debug\DBHelper.dll
+D:\Git\firstweekwork\DBHelper\obj\Debug\DBHelper.pdb

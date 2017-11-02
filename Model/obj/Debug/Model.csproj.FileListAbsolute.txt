@@ -1,0 +1,5 @@
+D:\练习\FirstWeekHomeWork\Model\bin\Debug\Model.dll
+D:\练习\FirstWeekHomeWork\Model\bin\Debug\Model.pdb
+D:\练习\FirstWeekHomeWork\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\练习\FirstWeekHomeWork\Model\obj\Debug\Model.dll
+D:\练习\FirstWeekHomeWork\Model\obj\Debug\Model.pdb
