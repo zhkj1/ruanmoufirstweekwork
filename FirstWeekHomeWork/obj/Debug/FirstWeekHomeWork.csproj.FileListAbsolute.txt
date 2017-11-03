@@ -18,3 +18,15 @@ D:\Git\firstweekwork\FirstWeekHomeWork\bin\Debug\Model.dll
 D:\Git\firstweekwork\FirstWeekHomeWork\bin\Debug\DBHelper.pdb
 D:\Git\firstweekwork\FirstWeekHomeWork\bin\Debug\Model.pdb
 D:\Git\firstweekwork\FirstWeekHomeWork\obj\Debug\FirstWeekHomeWork.csprojResolveAssemblyReference.cache
+D:\李曙光\Git\ruanmoufirstweekwork\FirstWeekHomeWork\bin\Debug\FirstWeekHomeWork.exe.config
+D:\李曙光\Git\ruanmoufirstweekwork\FirstWeekHomeWork\obj\Debug\FirstWeekHomeWork.exe
+D:\李曙光\Git\ruanmoufirstweekwork\FirstWeekHomeWork\obj\Debug\FirstWeekHomeWork.pdb
+D:\李曙光\Git\ruanmoufirstweekwork\FirstWeekHomeWork\bin\Debug\FirstWeekHomeWork.exe
+D:\李曙光\Git\ruanmoufirstweekwork\FirstWeekHomeWork\bin\Debug\FirstWeekHomeWork.pdb
+D:\李曙光\Git\ruanmoufirstweekwork\FirstWeekHomeWork\bin\Debug\DBHelper.dll
+D:\李曙光\Git\ruanmoufirstweekwork\FirstWeekHomeWork\bin\Debug\Model.dll
+D:\李曙光\Git\ruanmoufirstweekwork\FirstWeekHomeWork\bin\Debug\DBHelper.pdb
+D:\李曙光\Git\ruanmoufirstweekwork\FirstWeekHomeWork\bin\Debug\Model.pdb
+D:\李曙光\Git\ruanmoufirstweekwork\FirstWeekHomeWork\obj\Debug\FirstWeekHomeWork.csprojResolveAssemblyReference.cache
+D:\李曙光\Git\ruanmoufirstweekwork\FirstWeekHomeWork\bin\Debug\MySql.Data.dll
+D:\李曙光\Git\ruanmoufirstweekwork\FirstWeekHomeWork\bin\Debug\MySql.Data.xml

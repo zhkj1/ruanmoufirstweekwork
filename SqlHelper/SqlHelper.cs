@@ -12,7 +12,7 @@ namespace SqlHelper
 {
     public class SqlHelper : IDBHelper
     {
-        public static string connectionString = "";
+        public static string connectionString = AppCommon.sqlconnection;
         public int ExecuteNonQuery(CommandType cmdType, string cmdText, params DbParameter[] parameters)
         {
             int num = 0;
@@ -22,7 +22,7 @@ namespace SqlHelper
                 using (SqlConnection conn = new SqlConnection(connectionString))
                 {
                     PrepareCommand(cmd, conn,cmdType, cmdText, parameters);
-                    num = int.Parse(cmd.ExecuteScalar().ToString());
+                    num = cmd.ExecuteNonQuery();
                     cmd.Parameters.Clear();
                 }
             }
@@ -71,6 +71,29 @@ namespace SqlHelper
         public void Show()
         {
             Console.WriteLine("我是Sql");
+        }
+
+        public object ExecuteScalar(CommandType cmdType, string cmdText, params DbParameter[] parameters)
+        {
+            
+            try
+            {
+                SqlCommand cmd = new SqlCommand();
+                using (SqlConnection conn = new SqlConnection(connectionString))
+                {
+                    PrepareCommand(cmd, conn, cmdType, cmdText, parameters);
+                   
+                    object obj= cmd.ExecuteScalar();
+                    cmd.Parameters.Clear();
+                    return obj;
+                }
+            }
+            catch (Exception ex)
+            {
+                return  null;
+
+            }
+           
         }
     }
 }

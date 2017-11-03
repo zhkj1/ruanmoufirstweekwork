@@ -22,3 +22,15 @@ D:\Git\firstweekwork\MysqlHelper\bin\Debug\Model.pdb
 D:\Git\firstweekwork\MysqlHelper\obj\Debug\MysqlHelper.csprojResolveAssemblyReference.cache
 D:\Git\firstweekwork\MysqlHelper\obj\Debug\MysqlHelper.dll
 D:\Git\firstweekwork\MysqlHelper\obj\Debug\MysqlHelper.pdb
+D:\李曙光\Git\ruanmoufirstweekwork\MysqlHelper\bin\Debug\MysqlHelper.dll.config
+D:\李曙光\Git\ruanmoufirstweekwork\MysqlHelper\bin\Debug\MysqlHelper.dll
+D:\李曙光\Git\ruanmoufirstweekwork\MysqlHelper\bin\Debug\MysqlHelper.pdb
+D:\李曙光\Git\ruanmoufirstweekwork\MysqlHelper\bin\Debug\DBHelper.dll
+D:\李曙光\Git\ruanmoufirstweekwork\MysqlHelper\bin\Debug\MySql.Data.dll
+D:\李曙光\Git\ruanmoufirstweekwork\MysqlHelper\bin\Debug\Model.dll
+D:\李曙光\Git\ruanmoufirstweekwork\MysqlHelper\bin\Debug\DBHelper.pdb
+D:\李曙光\Git\ruanmoufirstweekwork\MysqlHelper\bin\Debug\MySql.Data.xml
+D:\李曙光\Git\ruanmoufirstweekwork\MysqlHelper\bin\Debug\Model.pdb
+D:\李曙光\Git\ruanmoufirstweekwork\MysqlHelper\obj\Debug\MysqlHelper.csprojResolveAssemblyReference.cache
+D:\李曙光\Git\ruanmoufirstweekwork\MysqlHelper\obj\Debug\MysqlHelper.dll
+D:\李曙光\Git\ruanmoufirstweekwork\MysqlHelper\obj\Debug\MysqlHelper.pdb

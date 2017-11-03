@@ -30,7 +30,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\packages\MySql.Data.6.10.4\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -40,7 +44,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppCommon.cs" />
     <Compile Include="Database.cs" />
+    <Compile Include="DataBaseCommon.cs" />
+    <Compile Include="DatabaseFactory.cs" />
     <Compile Include="DBFactory.cs" />
     <Compile Include="IDatabase.cs" />
     <Compile Include="IDBHelper.cs" />

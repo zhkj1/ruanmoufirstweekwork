@@ -12,3 +12,12 @@ D:\Git\firstweekwork\DBHelper\bin\Debug\Model.pdb
 D:\Git\firstweekwork\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
 D:\Git\firstweekwork\DBHelper\obj\Debug\DBHelper.dll
 D:\Git\firstweekwork\DBHelper\obj\Debug\DBHelper.pdb
+D:\李曙光\Git\ruanmoufirstweekwork\DBHelper\bin\Debug\DBHelper.dll
+D:\李曙光\Git\ruanmoufirstweekwork\DBHelper\bin\Debug\DBHelper.pdb
+D:\李曙光\Git\ruanmoufirstweekwork\DBHelper\bin\Debug\Model.dll
+D:\李曙光\Git\ruanmoufirstweekwork\DBHelper\bin\Debug\MySql.Data.dll
+D:\李曙光\Git\ruanmoufirstweekwork\DBHelper\bin\Debug\Model.pdb
+D:\李曙光\Git\ruanmoufirstweekwork\DBHelper\bin\Debug\MySql.Data.xml
+D:\李曙光\Git\ruanmoufirstweekwork\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+D:\李曙光\Git\ruanmoufirstweekwork\DBHelper\obj\Debug\DBHelper.dll
+D:\李曙光\Git\ruanmoufirstweekwork\DBHelper\obj\Debug\DBHelper.pdb

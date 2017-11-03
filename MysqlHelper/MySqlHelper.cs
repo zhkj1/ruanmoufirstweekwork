@@ -71,5 +71,26 @@ namespace MysqlHelper
         {
             throw new NotImplementedException();
         }
+
+        public object ExecuteScalar(CommandType cmdType, string cmdText, params DbParameter[] parameters)
+        {
+            int num = 0;
+            try
+            {
+                MySqlCommand cmd = new MySqlCommand();
+                using (MySqlConnection conn = new MySqlConnection(connectionString))
+                {
+                    PrepareCommand(cmd, conn, cmdType, cmdText, parameters);
+                    cmd.Parameters.Clear();
+                    return cmd.ExecuteScalar();
+                }
+            }
+            catch (Exception ex)
+            {
+                return null;
+
+            }
+           
+        }
     }
 }

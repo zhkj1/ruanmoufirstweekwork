@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Model
 {
-    public class Class1
+  public abstract  class AbstractValidateAttribute : Attribute
     {
+        public abstract bool Validate(object oValue);
     }
 }

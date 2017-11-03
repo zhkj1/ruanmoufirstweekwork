@@ -16,3 +16,14 @@ D:\Git\firstweekwork\SqlHelper\bin\Debug\Model.pdb
 D:\Git\firstweekwork\SqlHelper\obj\Debug\SqlHelper.csprojResolveAssemblyReference.cache
 D:\Git\firstweekwork\SqlHelper\obj\Debug\SqlHelper.dll
 D:\Git\firstweekwork\SqlHelper\obj\Debug\SqlHelper.pdb
+D:\李曙光\Git\ruanmoufirstweekwork\SqlHelper\bin\Debug\SqlHelper.dll
+D:\李曙光\Git\ruanmoufirstweekwork\SqlHelper\bin\Debug\SqlHelper.pdb
+D:\李曙光\Git\ruanmoufirstweekwork\SqlHelper\bin\Debug\DBHelper.dll
+D:\李曙光\Git\ruanmoufirstweekwork\SqlHelper\bin\Debug\Model.dll
+D:\李曙光\Git\ruanmoufirstweekwork\SqlHelper\bin\Debug\MySql.Data.dll
+D:\李曙光\Git\ruanmoufirstweekwork\SqlHelper\bin\Debug\DBHelper.pdb
+D:\李曙光\Git\ruanmoufirstweekwork\SqlHelper\bin\Debug\Model.pdb
+D:\李曙光\Git\ruanmoufirstweekwork\SqlHelper\bin\Debug\MySql.Data.xml
+D:\李曙光\Git\ruanmoufirstweekwork\SqlHelper\obj\Debug\SqlHelper.csprojResolveAssemblyReference.cache
+D:\李曙光\Git\ruanmoufirstweekwork\SqlHelper\obj\Debug\SqlHelper.dll
+D:\李曙光\Git\ruanmoufirstweekwork\SqlHelper\obj\Debug\SqlHelper.pdb
