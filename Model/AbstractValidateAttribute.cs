@@ -9,5 +9,7 @@ namespace Model
   public abstract  class AbstractValidateAttribute : Attribute
     {
         public abstract bool Validate(object oValue);
+
+         
     }
 }

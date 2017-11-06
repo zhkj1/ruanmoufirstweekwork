@@ -12,6 +12,7 @@ namespace Model
     {
         public override bool Validate(object oValue)
         {
+           // Regex RegexRegex = new Regex("");
             return Regex.IsMatch(oValue.ToString(), "^\\s*([A-Za-z0-9_-]+(\\.\\w+)*@(\\w+\\.)+\\w{2,5})\\s*$");
 
         }

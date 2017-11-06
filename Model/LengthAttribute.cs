@@ -6,16 +6,11 @@ using System.Threading.Tasks;
 
 namespace Model
 {
-    [AttributeUsage(AttributeTargets.Property,Inherited=true)]
-  public class RequiredAttribute: AbstractValidateAttribute
+    public class LengthAttribute : AbstractValidateAttribute
     {
-        public RequiredAttribute()
-        {
-
-        }
         public override bool Validate(object oValue)
         {
-            if (oValue is DBNull || string.IsNullOrEmpty(oValue.ToString()))
+            if (oValue.ToString().Length > MaxLength|| oValue.ToString().Length<MinLength)
             {
                 return true;
             }
@@ -24,5 +19,9 @@ namespace Model
                 return false;
             }
         }
+        public int MaxLength{ get; set; }
+
+        public int MinLength { get; set; }
+
     }
 }

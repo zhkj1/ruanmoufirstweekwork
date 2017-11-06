@@ -20,14 +20,25 @@ namespace FirstWeekHomeWork
             }
             Console.WriteLine("**********************************************************************");
             Company company = new Company();
-            company.Name = "公司" + new Random().Next(0, 100).ToString();
+            company.Name = "18516717582";
             company.CreateTime = DateTime.Now;
             company.CreatorId = new Random().Next(0, 100);
             company.LastModifierId = new Random().Next(0, 100);
             company.LastModifyTime = DateTime.Now.AddDays(1);
             company.status = 1;
             company.Id = 7;
-            int newid = DatabaseFactory.CreateInstance().Insert<Company>(company);
+            int newid = 0;
+            if (DataValidate.IsValidate(company))
+            {
+                newid = DatabaseFactory.CreateInstance().Insert<Company>(company);
+
+            }
+            else
+            {
+                Console.WriteLine("参数格式不正确");
+                return;
+            }
+         
             if (newid > 1)
             {
                 Console.WriteLine("添加成功");
